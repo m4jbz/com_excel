@@ -1,0 +1,11 @@
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\ExcelComInterop.exe.config
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\ExcelComInterop.exe
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\ExcelComInterop.pdb
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\OFFICE.DLL
+C:\Users\marco\Dev\com_excel\ExcelComInterop\bin\Debug\stdole.dll
+C:\Users\marco\Dev\com_excel\ExcelComInterop\obj\Debug\ExcelComInterop.csproj.AssemblyReference.cache
+C:\Users\marco\Dev\com_excel\ExcelComInterop\obj\Debug\ExcelComInterop.csproj.CoreCompileInputs.cache
+C:\Users\marco\Dev\com_excel\ExcelComInterop\obj\Debug\ExcelComInterop.csproj.CopyComplete
+C:\Users\marco\Dev\com_excel\ExcelComInterop\obj\Debug\ExcelComInterop.exe
+C:\Users\marco\Dev\com_excel\ExcelComInterop\obj\Debug\ExcelComInterop.pdb
